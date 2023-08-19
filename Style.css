@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background:rgb(224, 224, 224);
+}
+
+.fnav {
+    display: flex;
+    background: #000;
+    color: white;
+    height: 120px;
+
+
+}
+
+.logo img {
+    height: 120px;
+    width: 300px;
+}
+
+.flag img {
+    height: 25px;
+    width: 40px
+}
+
+.Searchbar input {
+
+    margin-top: 50px;
+    margin-left: 60px;
+    height: 25px;
+    width: 250px;
+    border: 3px white;
+}
+
+.icon {
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.flag img {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.fnav p {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+
+.cart {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.snav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 20px;
+    color: black;
+    /* background: grey;
+    height: 50px; */
+   
+}
+
+.snav a {
+
+
+    color: black;
+}
+
+.snav :hover {
+
+    background-color: white;
+    color: black;
+}
+
+.main img {
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.card {
+
+    width: 360px;
+    height: 400px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 11px;
+    margin-top: 20px;
+
+}
+
+.card .img img {
+    width: 44%;
+    padding: 7px;
+    margin-top: 7px;
+}
+
+.deals {
+
+    width: 1470px;
+    height: 300px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 22px;
+    border-radius: 5px;
+}
+
+
+.deals h1 {
+    margin-left: 22px;
+    margin-top: 33px;
+    padding: 30px;
+}
+
+.deals .img {
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 60%;
+    margin-bottom: 10px;
+
+
+}
+
+.fimg{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 30px;
+
+}
+.fimg h1{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.fimg img{
+    /* display: flex; */
+    justify-content:center ;
+    justify-content: space-around;
+   width: 170px;
+    margin-top: 80px;
+    padding-left: 70px;
+
+}
+
+.top {
+    display: flex;
+    justify-content: centre;
+    /* width: 100%; */
+    height: 200px;
+    /* margin-top: 10px; */
+    background-color: rgb(43, 43, 71);
+    color: white;
+}
+
+.top img {
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 30px;
+    width: 20%;
+    height: 150px;
+
+}
+
+.tab h1 {
+
+    padding-left: 40px;
+    margin-top: 20px;
+
+
+
+}
+.footer{
+
+     width: 100%;
+    height: 350px;
+    background-color: black;
+    color: white; 
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+
+}
+ .heading{
+    margin-top: 30px;
+ }
+ .heading p{
+    padding: 11px;
+ }
